@@ -1,0 +1,20 @@
+body{
+    background: rgb(89, 44, 187);
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    text-align: center;
+}
+h2{
+    font-size: 50px;
+}
+p{
+    font-size: 35px;
+}
+div{
+    border: 10px solid rgb(141, 34, 212);
+    border-radius: 50px;
+    background: rgb(117, 3, 194);
+    margin: 25px;
+}
+footer{
+    font-size: 30px;
+}
